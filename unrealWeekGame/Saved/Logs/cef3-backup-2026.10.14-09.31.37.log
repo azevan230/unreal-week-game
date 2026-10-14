@@ -1,0 +1,4 @@
+[9488:13820:1014/103745.189:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[9488:13820:1014/103745.864:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[22420:13552:1014/103752.521:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-352839F5C8B893EABA903951609BFE1A will be ignored
+[12104:7840:1014/113137.550:ERROR:angle_platform_impl.cc(44)] Renderer11.cpp:2280 (virtual rx::Renderer11::testDeviceLost): The D3D11 device was removed, HRESULT: 0x887A0005

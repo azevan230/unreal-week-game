@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 2026/10/14-15:04:35.230 1978 Reusing MANIFEST P:\GitHub\unreal week game\unrealWeekGame\Saved\webcache_6613\Default\Session Storage/MANIFEST-000001
 2026/10/14-15:04:35.317 1978 Recovering log #3
 2026/10/14-15:04:35.438 1978 Reusing old log P:\GitHub\unreal week game\unrealWeekGame\Saved\webcache_6613\Default\Session Storage/000003.log 
+=======
+2026/10/14-10:12:04.285 2ab8 Creating DB P:\GitHub\unreal-week-game\unrealWeekGame\Saved\webcache_6613\Default\Session Storage since it was missing.
+2026/10/14-10:12:05.034 2ab8 Reusing MANIFEST P:\GitHub\unreal-week-game\unrealWeekGame\Saved\webcache_6613\Default\Session Storage/MANIFEST-000001
+>>>>>>> c95dd5ba04e0a39a63e7d148037330e7176cc29d
